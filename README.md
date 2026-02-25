@@ -1,1 +1,1 @@
-"# AQI Prediction Project" 
+Mumbai AQI Prediction Dashboard  – An interactive machine learning dashboard that predicts the Air Quality Index (AQI) based on pollutant levels like PM2.5, PM10, NO2, SO2, CO, and O3. Built with Streamlit, Plotly, and Scikit-learn, it features an AQI gauge, pollutant radar chart, and downloadable prediction reports. Perfect for environmental monitoring and portfolio showcase.
